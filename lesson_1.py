@@ -14,6 +14,7 @@ class Hero:
 # Обьект(Экземпляр класса)
 kirito = Hero("Кирито", 1000, 100)
 asuna = Hero("Asuna", 1200, 110)
+straiker = Hero("Straiker", 1500, 143)
 
 print(kirito.hero_name)
 print(asuna.hero_name)
