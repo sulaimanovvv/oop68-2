@@ -1,0 +1,9 @@
+.DS_Store
+.localized
+*.png
+*.jpg
+*.jpeg
+__pycache__/
+*.pyc
+.venv/
+.env
