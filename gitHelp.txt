@@ -31,3 +31,10 @@ git commit - m "first lesson save"
 4) Отправка на сохранений в Github
 
 git push origin main/master
+
+5) Удаление всех изменений до коммита
+git restore .
+
+6) Удаление после git add.
+
+git reset .
