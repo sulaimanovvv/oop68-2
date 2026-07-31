@@ -106,3 +106,4 @@ def get_view():
 
 
 get_view()
+get_view
